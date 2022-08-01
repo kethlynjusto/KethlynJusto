@@ -1,21 +1,17 @@
 <div display="inline-block">
   <h1 align="left">Olá Devs,</h1>
-  <p>Me chamo Me chamo Kethlyn, tenho 31 anos e estou em transição de carreira.
-      No momento curso:
+  <p>Me chamo Kethlyn, tenho 31 anos e estou em transição de carreira. Comecei meus estudos em Janeiro/2022 e entre um bug e outro tomo café, passo raiva e me apaixono cada vez mais por esse mundo.
+</div>
+
+<div>
+    <p><b>No momento curso:</b></p>
       
-      Ciência de Dados - Estácio
-      Analise e Desenvolvimento de sistema - FIAP
-      Java - Alura
-      HTML - Alura
-      CSS - Alura
-  </p>
-  
+  <p>💽 Ciência de Dados - Estácio</p>    
+  <p>📚 Analise e Desenvolvimento de sistema - FIAP </p>
 </div>
   
+  ##
 
-
-
- 
 ### Bem vindo ao meu perfil do GitHub 🥰
 
 <div align="center">
