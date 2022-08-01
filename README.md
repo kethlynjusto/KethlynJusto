@@ -1,7 +1,6 @@
 <div display="inline-block">
-  <h1 align="left">Kethlyn Diniz</h1>
-  <p> Oiii Devs,
-      Me chamo Me chamo Kethlyn, tenho 31 anos e estou em transição de carreira.
+  <h1 align="left">Olá Devs,</h1>
+  <p>Me chamo Me chamo Kethlyn, tenho 31 anos e estou em transição de carreira.
       No momento curso:
       
       Ciência de Dados - Estácio
