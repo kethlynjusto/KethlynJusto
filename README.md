@@ -1,4 +1,23 @@
-### Oiii! Eu sou a Kethlyn Diniz
+<div display="inline-block">
+  <h1 align="left">Kethlyn Diniz</h1>
+  <p> Oiii Devs,
+      Me chamo Me chamo Kethlyn, tenho 31 anos e estou em transição de carreira.
+      No momento curso:
+      
+      Ciência de Dados - Estácio
+      Analise e Desenvolvimento de sistema - FIAP
+      Java - Alura
+      HTML - Alura
+      CSS - Alura
+  </p>
+  
+</div>
+  
+
+
+
+ 
+### Bem vindo ao meu perfil do GitHub 🥰
 
 <div align="center">
   <a href="https://github.com/kethlyndiniz">
@@ -9,6 +28,7 @@
  ##
  
 <div style="display: inline_block"><br>
+  <p>Tecnologias e ferramentas que estou aprendendo:</p>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
