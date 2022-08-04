@@ -22,6 +22,7 @@
 
  ##
  
+ 
 <div style="display: inline_block"><br>
   <p>Tecnologias e ferramentas que estou aprendendo:</p>
   <img align="center" alt="Keth-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
