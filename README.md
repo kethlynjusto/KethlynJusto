@@ -17,7 +17,7 @@
 <div align="center">
   <h2>Bem vindo ao meu perfil do GitHub 🥰</h2>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kethlyndiniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethlyndiniz&layout=compact&langs_count=7&theme=radical&hide=jupyter%20notebook"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethlyndiniz&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  ##
