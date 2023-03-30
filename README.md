@@ -18,7 +18,7 @@
   <h2>Bem vindo ao meu perfil do GitHub 🥰</h2>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kethlynjusto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kethlynjusto&layout=compact&langs_count=7&theme=radical&hide=jupyter%20notebook"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=KethlynJusto&theme=radical&border_radius=10.1"/>
+<!--  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=KethlynJusto&theme=radical&border_radius=10.1"/> -->
 </div>
 
  ##
