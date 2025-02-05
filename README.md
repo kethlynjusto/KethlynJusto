@@ -1,6 +1,6 @@
 <div display="inline-block">
-  <h1 align="left">Olá Devs,</h1>
-  <p>Me chamo Kethlyn, tenho 31 anos e estou em transição de carreira para Full-Stack. Comecei meus estudos em Janeiro/2022 e entre um bug e outro tomo café, passo raiva e me apaixono cada vez mais por esse mundo.
+  <h1 align="left">Olá,</h1>
+  <p>Me chamo Kethlyn, tenho 34 anos e estou em transição de carreira para Back-End. Comecei meus estudos em Janeiro/2022 e entre um bug e outro tomo café, passo raiva e me apaixono cada vez mais por esse mundo.
 </div>
 
 <div>
